@@ -1,0 +1,434 @@
+Số 135, đường Nguyễn Công Trứ, phường Bích Đào, thành phố Ninh Bình, tỉnh Ninh Bình
+2
+
+Nguyễn Văn Tâm
+Tâm
+13 8 1961
+Ninh Bình
+Khánh An  Yên Khánh  Ninh Bình
+Kinh nam 60 001002002065 1
+15 8 2010
+Ninh Bình
+giáo viên
+Đại học Bách Khoa
+25 8 2000
+0
+chủ hộ
+
+Phạm Ngọc Mai
+Mai
+4 7 1966
+Hà Nội
+Hoa Lư Ninh Bình
+Kinh nữ 55 026701002987 0
+11 7 2012
+Ninh Bình
+công chức
+Ngân hàng MB
+25 8 2000
+0
+vợ
+
+Số 146, đường Nguyễn Công Trứ, phường Bích Đào, thành phố Ninh Bình, tỉnh Ninh Bình
+3
+
+Hoàng Trung Kiên
+Kiên
+15 6 1970
+Hà Nội
+Khánh Thủy  Yên Khánh  Ninh Bình
+Kinh nam 51 001002002479 1
+28 8 2012
+Ninh Bình
+công chức
+Sở Y Tế Ninh Bình
+24 5 2009
+0
+chủ hộ
+
+Nguyễn Thị Thanh
+Thanh
+3 8 1971
+Ninh Bình
+Gia Viễn  Ninh Bình
+Kinh nữ 50 037301002480 0
+23 7 2009
+Ninh Bình
+bác sĩ
+Bệnh viện Đa khoa Ninh Bình
+24 5 2009
+0
+vợ
+
+Hoàng Thành Long
+Long
+4 8 2005
+Ninh Bình
+Khánh Thủy  Yên Khánh  Ninh Bình
+Kinh nam 16 047408002481 0
+20 7 2021
+Ninh Bình
+học sinh
+Trường THPT Lương Văn Tụy
+24 5 2009
+0
+con trai
+
+Số 114, đường Nguyễn Công Trứ, phường Bích Đào, thành phố Ninh Bình, tỉnh Ninh Bình
+2
+
+Trịnh Hoàng Mai
+Mai
+7 8 1966
+Ninh Bình
+Nho Quan  Ninh Bình
+Kinh nữ 55 001002002488 1
+28 10 2007
+Ninh Bình
+giáo viên
+Đại học Hoa Lư
+14 8 2001
+0
+chủ hộ0
+
+Phạm Thị Hương Anh
+Hương
+4 7 1996
+Ninh Bình
+Nho Quan Ninh Bình
+Kinh nữ 25 001002002489 0
+4 10 2012
+Ninh Bình
+giáo viên
+Trường THPT Lương Văn Tụy
+14 8 2001
+0
+con gái
+
+Số 129, đường Nguyễn Công Trứ, phường Bích Đào, thành phố Ninh Bình, tỉnh Ninh Bình
+3
+
+Đinh Hải Hùng
+Hùng
+17 3 1970
+Ninh Bình
+Kim Sơn  Ninh Bình
+Kinh nam 51 002002002482 1
+28 8 2012
+Ninh Bình
+công chức
+Cao Đẳng Y Ninh Bình
+24 5 2009
+0
+chủ hộ
+
+Nguyễn Thanh Hà
+Hà
+3 10 1971
+Ninh Bình
+Gia Viễn  Ninh Bình
+Kinh nữ 50 037301002483 0
+23 7 2009
+Ninh Bình
+bác sĩ
+Bệnh viện Tâm Anh
+24 5 2009
+0
+vợ
+
+Đinh Hải Long
+Long
+4 8 2006
+Ninh Bình
+Kim Sơn  Ninh Bình
+Kinh nam 15 047408002484 0
+1 6 2021
+Ninh Bình
+học sinh
+Trường THCS Lý Tự Trọng
+24 5 2009
+0
+con trai
+
+Số 316, đường Hải Thượng Lãn Ông, phường Phúc Thành, thành phố Ninh Bình, tỉnh Ninh Bình
+4
+
+Nguyễn Huy Quang
+Quang
+5 2 1966
+Ninh Bình
+Yên Khánh  Ninh Bình
+Kinh nam 55 001002002484 1
+28 10 2012
+Ninh Bình
+giáo viên
+Đại học Công Nghiệp
+12 5 2004
+0
+chủ hộ
+
+Phạm Thị Trâm
+Trâm
+11 9 1971
+Ninh Bình
+Yên Khánh  Ninh Bình
+Kinh nữ 50 001002002485 0
+28 10 2012
+Ninh Bình
+nội trợ
+tại gia
+12 5 2004
+0
+vợ
+
+Nguyễn Ngọc Ngọc
+Ngọc
+7 9 2001
+Ninh Bình
+Yên Khánh Ninh Bình
+Kinh nữ 20 001002002486 0
+28 10 2016
+Ninh Bình
+sinh viên
+Đại học Thủy Lợi
+12 5 2004
+0
+con gái
+
+Nguyễn Huy Anh
+Anh
+25 10 1996
+Ninh Bình
+Yên Khánh Ninh Bình
+Kinh nam 25 001002002487 0
+23 6 2016
+Ninh Bình
+bộ đội
+Đông Triều Quảng Ninh
+12 5 2004
+0
+con trai
+
+Số 231, đường Trần Hưng Đạo, phường Đông Thành, thành phố Ninh Bình, tỉnh Ninh Bình
+3
+
+Tạ Quang Hùng
+Hùng
+14 8 1985
+Hà Nội
+Phủ Lý  Hà Nam
+Kinh nam 36 001002002488 1
+5 8 2011
+Ninh Bình
+công chức
+Sở Nông nghiệp và phát triển nông thôn Ninh Bình
+23 7 2020
+0
+chủ hộ
+
+Trịnh Minh Anh
+Minh
+24 7 1990
+Ninh Bình
+Tam Điệp Ninh Bình
+Kinh nữ 31 001002002489 0
+4 7 2019
+Ninh Bình
+giáo viên
+Học viện Nông nghiệp HN
+23 7 2020
+0
+vợ
+
+Tạ Xuân Mỹ
+Mỹ
+5 8 2002
+Ninh Bình
+Phủ Lý Hà Nam
+Kinh nữ 19 001002002490 0
+5 8 2019
+Ninh Bình
+sinh viên
+Đại học Quốc Gia HN
+23 7 2020
+0
+con gái
+
+Số 229, đường Trần Hưng Đạo, phường Đông Thành, thành phố Ninh Bình, tỉnh Ninh Bình
+6
+
+Nguyễn Hoàng Mai
+Mai
+3 5 1970
+Ninh Bình
+Gia Lâm Hà Nội
+Kinh nữ 51 001002002491 1
+4 7 2010
+Ninh Bình
+công chức
+Sở Giáo Dục Ninh Bình
+30 5 2021
+0
+chủ hộ
+
+Nguyễn Hoàng Anh
+Anh
+4 7 1980
+Ninh Bình
+Gia Lâm Hà Nội
+Kinh nữ 41 001002002492 0
+5 8 2010
+Ninh Bình
+giáo viên
+Trường THPT Lương Văn Tụy
+30 5 2021
+0
+em gái
+
+Trịnh Gia Huy
+Huy
+5 8 1879
+Ninh Bình
+Hoa Lư Ninh Bình
+Kinh nam 42 001002002493 0
+4 7 2011
+Ninh Bình
+giáo viên
+Đại Học Hoa Lư
+30 5 2021
+0
+chồng em gái
+
+Phạm Văn Tâm
+Tâm
+7 1 2000
+Ninh Bình
+Gia Lâm Hà Nội
+Kinh nam 21 001002002494 0
+5 8 2016
+Ninh Bình
+sinh viên
+Đại Học Y HN
+30 5 2021
+0
+con trai
+
+Đinh Hải Long
+19 6 1940
+Hà Nội
+Gia Lâm Hà Nội
+Kinh nữ 81 001002002495 0
+9 12 2009
+Hà Nội
+cán bộ nghỉ hưu
+tại nhà
+30 5 2021
+0
+mẹ
+
+Phạm Huyền Trang
+Trang
+3 7 2001
+Ninh Bình
+Gia Lâm Ninh Bình
+Kinh nữ 20 001002002496 0
+12 7 2016
+Ninh Bình
+sinh viên
+Đại học Bách Khoa
+30 5 2021
+0
+con gái
+
+Số 155, đường Tuệ Tĩnh, phường Nam Thành, thành phố Ninh Bình, tỉnh Ninh Bình
+1
+
+Trương Ngọc Lan
+Lan
+2 7 1995
+Hà Nội
+Long Biên Hà Nội
+Kinh nữ 26 001002002497 1
+12 6 2010
+Hà Nội
+công chức
+Ngân Hàng BIDV tp Ninh Bình
+14 7 2019
+0
+chủ hộ
+
+Số 56, đường Vân Giang, phường Thanh Bình, thành phố Ninh Bình, tỉnh Ninh Bình
+2
+
+Tạ Quang Vinh
+Vinh
+4 5 1990
+Hưng Yên
+Hồng Châu Hưng Yên
+Kinh nam 31 001002002498 1
+4 8 2010
+Hưng Yên
+kinh doanh
+Khách sạn The Reed
+9 5 2020
+0
+chủ hộ
+
+Nguyễn Thảo My
+My
+7 12 1997
+Hà Nam
+Phủ Lý Hà Nam
+Kinh nữ 24 001002002499 0
+8 10 2009
+Hà Nam
+Kinh Doanh
+Sân bóng Anh Khoa
+9 5 2020
+0
+vợ
+
+Số 72, đường Vân Giang, phường Thanh Bình, thành phố Ninh Bình, tỉnh Ninh Bình
+3
+
+Lê Huy Hùng
+Hùng
+5 12 1980
+Ninh Bình
+Tam Điệp Ninh Bình
+Kinh nam 41 001002002500 1
+7 5 2010
+Ninh Bình
+Kỹ sư
+VNPT Ninh Bình
+8 12 2019
+0
+chủ hộ
+
+Vũ Ánh Ngọc
+Ngọc
+6 8 1985
+Hà Nội
+Hà Đông Hà Nội
+Kinh nữ 36 001002002501 0
+6 3 2008
+Hà Nội
+giáo viên
+Đại học Công Nghiệp
+8 12 2019
+0
+vợ
+
+Lê Tâm Anh
+Tâm
+6 3 2001
+Ninh Bình
+Tam Điệp Ninh Bình
+Kinh nữ 21 001002002502 0
+7 4 2019
+Ninh Bình
+sinh viên
+Đại học Ngoại Thương
+8 12 2019
+0
+con gái

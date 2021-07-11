@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Generated with glade 3.22.2 -->
+<interface>
+  <requires lib="gtk+" version="3.20"/>
+  <object class="GtkWindow" id="window_start">
+    <property name="width_request">625</property>
+    <property name="height_request">450</property>
+    <property name="can_focus">False</property>
+    <property name="default_width">625</property>
+    <property name="default_height">400</property>
+    <property name="icon">apple.png</property>
+    <child type="titlebar">
+      <placeholder/>
+    </child>
+    <child>
+      <object class="GtkFixed" id="fixed_start">
+        <property name="visible">True</property>
+        <property name="can_focus">False</property>
+        <child>
+          <object class="GtkImage" id="BK_image">
+            <property name="width_request">100</property>
+            <property name="height_request">80</property>
+            <property name="visible">True</property>
+            <property name="can_focus">False</property>
+            <property name="pixbuf">BK.jpeg</property>
+          </object>
+          <packing>
+            <property name="x">152</property>
+            <property name="y">25</property>
+          </packing>
+        </child>
+        <child>
+          <object class="GtkLabel" id="Presented_Label">
+            <property name="width_request">341</property>
+            <property name="height_request">70</property>
+            <property name="visible">True</property>
+            <property name="can_focus">False</property>
+            <property name="label" translatable="yes">Presented By Group 7</property>
+            <attributes>
+              <attribute name="font-desc" value="Tlwg Typo Bold Oblique 17"/>
+              <attribute name="foreground" value="#2e2e34343636"/>
+              <attribute name="background" value="#ffffffffffff"/>
+            </attributes>
+          </object>
+          <packing>
+            <property name="x">115</property>
+            <property name="y">358</property>
+          </packing>
+        </child>
+        <child>
+          <object class="GtkButton" id="start_button">
+            <property name="width_request">20</property>
+            <property name="height_request">34</property>
+            <property name="visible">True</property>
+            <property name="can_focus">True</property>
+            <property name="receives_default">True</property>
+            <child>
+              <object class="GtkImage">
+                <property name="visible">True</property>
+                <property name="can_focus">False</property>
+                <property name="stock">gtk-media-play</property>
+                <property name="icon_size">3</property>
+              </object>
+            </child>
+          </object>
+          <packing>
+            <property name="x">426</property>
+            <property name="y">376</property>
+          </packing>
+        </child>
+      </object>
+    </child>
+  </object>
+</interface>

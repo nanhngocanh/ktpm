@@ -1,0 +1,44 @@
+Chung cư The Legend 109 Nguyễn Tuân
+3
+
+Nguyễn Văn Hoàng
+chủ tịch
+20 10 1974
+Thanh Hóa
+Xuân Thành  Thọ Xuân  Thanh Hóa
+Kinh nam 46 12345678 1
+1 10 2010
+CATP Hà Nội
+giám đốc
+công ty A
+20 10 2010
+0
+chủ hộ
+
+Nguyễn Hoàng Anh
+Hoanh
+7 10 2001
+Thanh Hóa
+Xuân Thành  Thọ Xuân  Thanh Hóa
+Kinh nam 20 001201010888 0
+1 10 2019 
+CATP Hà Nội
+sinh viên
+đại học Bách Khoa
+20 10 2010
+0
+con trai
+
+Nguyễn Lê Đức Anh
+thiên tài
+19 11 2005
+Thanh Hóa
+Xuân Thành  Thọ Xuân  Thanh Hóa
+Kinh nam 16 987543221 0
+1 10 2020 
+CATP Hà Nội
+học sinh
+trường THPT chuyên Hà Nội Amsterdam
+20 10 2010
+0
+con trai

@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Generated with glade 3.22.2 -->
+<interface>
+  <requires lib="gtk+" version="3.20"/>
+  <object class="GtkApplicationWindow" id="Window_App">
+    <property name="can_focus">False</property>
+    <child type="titlebar">
+      <placeholder/>
+    </child>
+    <child>
+      <object class="GtkFixed" id="Fixed">
+        <property name="visible">True</property>
+        <property name="can_focus">False</property>
+        <child>
+          <object class="GtkLabel" id="Label">
+            <property name="width_request">141</property>
+            <property name="height_request">62</property>
+            <property name="visible">True</property>
+            <property name="can_focus">False</property>
+            <property name="label" translatable="yes">Options</property>
+            <attributes>
+              <attribute name="font-desc" value="Sans Bold Italic 10"/>
+              <attribute name="underline" value="True"/>
+              <attribute name="foreground" value="#34346565a4a4"/>
+              <attribute name="strikethrough-color" value="#efef29292929"/>
+            </attributes>
+          </object>
+          <packing>
+            <property name="x">133</property>
+            <property name="y">-2</property>
+          </packing>
+        </child>
+        <child>
+          <object class="GtkButton" id="Change_Phone_Button">
+            <property name="label" translatable="yes">Change Phone_Number</property>
+            <property name="width_request">213</property>
+            <property name="height_request">33</property>
+            <property name="visible">True</property>
+            <property name="can_focus">True</property>
+            <property name="receives_default">True</property>
+          </object>
+          <packing>
+            <property name="x">95</property>
+            <property name="y">89</property>
+          </packing>
+        </child>
+        <child>
+          <object class="GtkButton" id="Change_ID_Button">
+            <property name="label" translatable="yes">Change ID</property>
+            <property name="width_request">213</property>
+            <property name="height_request">33</property>
+            <property name="visible">True</property>
+            <property name="can_focus">True</property>
+            <property name="receives_default">True</property>
+          </object>
+          <packing>
+            <property name="x">95</property>
+            <property name="y">131</property>
+          </packing>
+        </child>
+        <child>
+          <object class="GtkButton" id="Change_Name_Button">
+            <property name="label" translatable="yes">Change Student's Name</property>
+            <property name="width_request">212</property>
+            <property name="height_request">33</property>
+            <property name="visible">True</property>
+            <property name="can_focus">True</property>
+            <property name="receives_default">True</property>
+          </object>
+          <packing>
+            <property name="x">95</property>
+            <property name="y">48</property>
+          </packing>
+        </child>
+        <child>
+          <object class="GtkButton" id="Return_Button">
+            <property name="label" translatable="yes">Return </property>
+            <property name="width_request">213</property>
+            <property name="height_request">33</property>
+            <property name="visible">True</property>
+            <property name="can_focus">True</property>
+            <property name="receives_default">True</property>
+          </object>
+          <packing>
+            <property name="x">95</property>
+            <property name="y">212</property>
+          </packing>
+        </child>
+      </object>
+    </child>
+  </object>
+</interface>
